@@ -1,5 +1,5 @@
 # Splitwise System Design:
-Detailed Designing of Splitwise System
+Fork of Detailed Designing of Splitwise System
 
 # Use Cases to be covered:
 - User should be able to add expense
@@ -24,3 +24,4 @@ Detailed Designing of Splitwise System
 - System should be consistent and show accurate results
 - System should handle heavy request flows since many users can login to the system at same time
 - System should be secure
+
