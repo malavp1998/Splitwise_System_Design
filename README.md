@@ -1,7 +1,7 @@
 # Splitwise System Design:
 Fork of Detailed Designing of Splitwise System
 
-# Use Cases to be covered:
+# Use Cases to be covered in this repo:
 - User should be able to add expense
 - User should be able to enter the expense he paid for friends and the amount should be split amongst friends.
 - The Splitting of expense is of the following types:
